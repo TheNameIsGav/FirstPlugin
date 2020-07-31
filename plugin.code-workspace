@@ -10,6 +10,10 @@
 			"**/.project": true,
 			"**/.settings": true,
 			"**/.factorypath": true
-		}
+		},
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"BuildTools.jar"
+		]
 	}
 }
